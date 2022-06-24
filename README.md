@@ -10,3 +10,4 @@
 | 1    | Two Sum                                              | Easy       | C++      |
 | 2114 | Maximum Number of Words Found in Sentences           | Easy       | C++      |
 | 389  | Find the Difference                                  | Easy       | C++      |
+| 1342 | Number of Steps to Reduce a Number to Zero           | Easy       | C++      |
