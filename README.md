@@ -9,3 +9,4 @@
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       | C++      |
 | 1    | Two Sum                                              | Easy       | C++      |
 | 2114 | Maximum Number of Words Found in Sentences           | Easy       | C++      |
+| 389  | Find the Difference                                  | Easy       | C++      |
