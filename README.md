@@ -2,7 +2,8 @@
 
 ##### Note: _These may not be the most optimal solutions_
 
-| #    | Title                | Difficulty | Language |
-| ---- | -------------------- | ---------- | -------- |
-| 1512 | Number of Good Pairs | Easy       | C++      |
-| 69   | Sqrt(x)              | Easy       | C++      |
+| #    | Title                                                | Difficulty | Language |
+| ---- | ---------------------------------------------------- | ---------- | -------- |
+| 1512 | Number of Good Pairs                                 | Easy       | C++      |
+| 69   | Sqrt(x)                                              | Easy       | C++      |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       | C++      |
