@@ -12,3 +12,4 @@
 | 389  | Find the Difference                                  | Easy       | C++      |
 | 1342 | Number of Steps to Reduce a Number to Zero           | Easy       | C++      |
 | 136  | Single Number                                        | Easy       | C++      |
+| 268  | Missing Number                                       | Easy       | C++      |
