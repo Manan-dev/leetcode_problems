@@ -13,3 +13,4 @@
 | 1342 | Number of Steps to Reduce a Number to Zero           | Easy       | C++      |
 | 136  | Single Number                                        | Easy       | C++      |
 | 268  | Missing Number                                       | Easy       | C++      |
+| 771  | Jewels and Stones                                    | Easy       | C++      |
