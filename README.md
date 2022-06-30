@@ -16,3 +16,4 @@
 | 771  | Jewels and Stones                                    | Easy       | C++      |
 | 2236 | Root Equals Sum of Children                          | Easy       | C++      |
 | 20   | Valid Parentheses                                    | Easy       | C++      |
+| 1389 | Create Target Array in the Given Order               | Easy       | C++      |
