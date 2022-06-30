@@ -15,3 +15,4 @@
 | 268  | Missing Number                                       | Easy       | C++      |
 | 771  | Jewels and Stones                                    | Easy       | C++      |
 | 2236 | Root Equals Sum of Children                          | Easy       | C++      |
+| 20   | Valid Parentheses                                    | Easy       | C++      |
