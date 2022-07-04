@@ -19,3 +19,4 @@
 | 1389 | Create Target Array in the Given Order               | Easy       | C++      |
 | 1221 | Split a String in Balanced Strings                   | Easy       | C++      |
 | 1859 | Sorting the Sentence                                 | Easy       | C++      |
+| 9    | Palindrome Number                                    | Easy       | C++      |
