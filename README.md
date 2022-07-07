@@ -21,3 +21,4 @@
 | 1859 | Sorting the Sentence                                 | Easy       | C++      |
 | 9    | Palindrome Number                                    | Easy       | C++      |
 | 2119 | A Number After a Double Reversal                     | Easy       | C++      |
+| 1832 | Check if the Sentence Is Pangram                     | Easy       | C++      |
