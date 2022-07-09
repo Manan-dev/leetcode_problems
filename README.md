@@ -24,3 +24,4 @@
 | 1832 | Check if the Sentence Is Pangram                     | Easy       | C++      |
 | 1920 | Build Array from Permutation                         | Easy       | C++      |
 | 2011 | Final Value of Variable After Performing Operations  | Easy       | C++      |
+| 1480 | Running Sum of 1d Array                              | Easy       | C++      |
