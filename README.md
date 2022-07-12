@@ -28,3 +28,4 @@
 | 1929 | Concatenation of Array                               | Easy       | C++      |
 | 1108 | Defanging an IP Address                              | Easy       | C++      |
 | 1431 | Kids With the Greatest Number of Candies             | Easy       | C++      |
+| 367  | Valid Perfect Square                                 | Easy       | C++      |
