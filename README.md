@@ -30,3 +30,4 @@
 | 1431 | Kids With the Greatest Number of Candies             | Easy       | C++      |
 | 367  | Valid Perfect Square                                 | Easy       | C++      |
 | 1528 | Shuffle String                                       | Easy       | C++      |
+| 1773 | Count Items Matching a Rule                          | Easy       | C++      |
