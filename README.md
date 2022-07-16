@@ -32,3 +32,4 @@
 | 1528 | Shuffle String                                       | Easy       | C++      |
 | 1773 | Count Items Matching a Rule                          | Easy       | C++      |
 | 1486 | XOR Operation in an Array                            | Easy       | C++      |
+| 1791 | Find Center of Star Graph                            | Easy       | C++      |
