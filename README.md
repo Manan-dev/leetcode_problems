@@ -33,3 +33,4 @@
 | 1773 | Count Items Matching a Rule                          | Easy       | C++      |
 | 1486 | XOR Operation in an Array                            | Easy       | C++      |
 | 1791 | Find Center of Star Graph                            | Easy       | C++      |
+| 1688 | Count of Matches in Tournament                       | Easy       | C++      |
