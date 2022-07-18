@@ -34,3 +34,4 @@
 | 1486 | XOR Operation in an Array                            | Easy       | C++      |
 | 1791 | Find Center of Star Graph                            | Easy       | C++      |
 | 1688 | Count of Matches in Tournament                       | Easy       | C++      |
+| 2006 | Count Number of Pairs With Absolute Difference K     | Easy       | C++      |
