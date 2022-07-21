@@ -36,3 +36,4 @@
 | 1688 | Count of Matches in Tournament                       | Easy       | C++      |
 | 2006 | Count Number of Pairs With Absolute Difference K     | Easy       | C++      |
 | 1662 | Check If Two String Arrays are Equivalent            | Easy       | C++      |
+| 1684 | Count the Number of Consistent Strings               | Easy       | C++      |
