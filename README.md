@@ -39,3 +39,4 @@
 | 1684 | Count the Number of Consistent Strings               | Easy       | C++      |
 | 2103 | Rings and Rods                                       | Easy       | C++      |
 | 709  | To Lower Case                                        | Easy       | C++      |
+| 1816 | Truncate Sentence                                    | Easy       | C++      |
