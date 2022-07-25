@@ -40,3 +40,4 @@
 | 2103 | Rings and Rods                                       | Easy       | C++      |
 | 709  | To Lower Case                                        | Easy       | C++      |
 | 1816 | Truncate Sentence                                    | Easy       | C++      |
+| 459  | Repeated Substring Pattern                           | Easy       | C++      |
